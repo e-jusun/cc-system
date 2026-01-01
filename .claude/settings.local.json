@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Skill(dev-docs)",
+      "Skill(git-commit)"
+    ]
+  },
+  "enableAllProjectMcpServers": true,
+  "enabledMcpjsonServers": [
+    "playwright-server"
+  ]
+}
