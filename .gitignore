@@ -1,2 +1,7 @@
 # Dev docs - completed tasks archive
 .claude/dev/completed/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
